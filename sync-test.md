@@ -12,4 +12,4 @@ Yes, it works too!
 
 Yes.
 
-[[Four Virtues|Four_Virtues]]
+[[Four-Virtues|Four Virtues]]
