@@ -7,3 +7,5 @@ Does it sync?
 Yes, it does!
 
 In VSC with "Run on Save"
+
+Yes, it works too!
