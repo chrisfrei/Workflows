@@ -11,5 +11,3 @@ In VSC with "Run on Save"
 Yes, it works too!
 
 Yes.
-
-[[Four-Virtues|Four\ Virtues]]
