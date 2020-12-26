@@ -14,7 +14,7 @@ Note that we do not specifically endorse any of these methods, or the people who
 
 PARA stands for Projects, Areas, Resources, Archive. Popularized by [Tiago Forte](https://fortelabs.co/blog/para/) , it emphasizes sorting information by actionability rather than category. This system can be useful if you are organizing information as part of a project management system.
 
-_Created by @cotemaxime _
+_Created by @cotemaxime_
 
 ## IMF
 
