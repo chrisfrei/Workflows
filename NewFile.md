@@ -1,3 +1,3 @@
-# New File 
+# New File
 
-sdlkjgsöl
+[[01 Obsidian Workflows]]
