@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "395cffff67b3ac50",
+    "type": "split",
+    "children": [
+      {
+        "id": "217de1a7dbd77c3b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "05 On the process of forging evergreen notes/000 Index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cdf4f3397ab30427",
+    "type": "split",
+    "children": [
+      {
+        "id": "6153c212f1e6f4a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88d8bed193a67a57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e570cac4830da9d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e19050ad72836f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "65542753f2795c0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c91a22f9f4d811a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05 On the process of forging evergreen notes/000 Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "05 On the process of forging evergreen notes/000 Index.md"
+  ]
+}
